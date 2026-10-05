@@ -1,4 +1,6 @@
- ul {List-style-type:none
+body { background-color: cyan }
+
+ul {List-style-type:none
 padding:16px
    }
 Li {display:inLine;

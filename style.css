@@ -1,9 +1,9 @@
-body { background-color: green }
+body { background-color: green; text-align: center; }
 
 ul {List-style-type:none
 padding:16px
    }
-Li {display:inLine;
+li {display:inLine;
     padding-left:4px baby pink;
    }
 Web Programmer 
